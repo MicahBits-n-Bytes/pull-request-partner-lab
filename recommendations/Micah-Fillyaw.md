@@ -2,7 +2,7 @@
 
 ##Voice Recorder
 
-A voice recorder is a tool to record ones voice, commonly used to record meetings, classes, and phonecalls. It will keep the audio recording stored inside and will usually have buttons to navigate the recording, pause it, or play it. Some voice recorders also have a transcription feature that will show you what was said via text.
+A voice recorder is a tool to record ones voice, commonly used to record meetings, classes, and phonecalls. It will keep the audio recording stored inside and will usually have buttons to navigate the recording, pause it, or play it. Some voice recorders also have a transcription feature that will show you what was said via text. Voice recorders often connect to computers via USB. They will also frequently come with software that allow you to easily edit and review recordings.
 
 ##Why I recommend voice recorders
 
